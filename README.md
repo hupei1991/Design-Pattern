@@ -1,2 +1,2 @@
 # Design-Pattern
-Design Patterns Implementation in Python
+Design Patterns Implementation
